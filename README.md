@@ -58,7 +58,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| [SparkFun Triple Axis Magnetometer Breakout - MLX90393]((https://www.sparkfun.com/products/14571)) | Qwiic / i2C | magnetic fields 0.161µT | [sparkfun.com] |
+| [SparkFun Triple Axis Magnetometer Breakout - MLX90393](https://www.sparkfun.com/products/14571) | Qwiic / i2C | magnetic fields 0.161µT | [sparkfun.com] |
 
 
 ## 3D Printed Stations and Parts
