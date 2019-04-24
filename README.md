@@ -16,8 +16,8 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| [Zio Air Pressure Sensor - BMP280]((https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280)) | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com] |
-|  [SparkFun Environmental Combo Breakout - CCS811/BME280]((https://www.sparkfun.com/products/14348)) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
+| [Zio Air Pressure Sensor - BMP280](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com] |
+|  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
  | [Zio Qwiic Temperature Humidity Sensor (SHT31)](https://www.smart-prototyping.com/Zio-Qwiic-Temperature-Humidity-Sensor-SHT31) | Qwiic / i2c | Temp, Humidity | [Smart-Prototyping.com] |
  
 **AIR QUALITY**
