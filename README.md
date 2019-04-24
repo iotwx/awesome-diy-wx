@@ -10,55 +10,55 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 | [RedPocket](https://redpocket.com) | Y | Y | (5/1/2019) ATT 4G LTE - 1GB - $10/mo |
 
 
-## Sensors
+## Qwiic/i2c Sensors
 
 **TEMPERATURE & HUMIDITY**
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| Zio Air Pressure Sensor - BMP280 | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) |
-|  SparkFun Environmental Combo Breakout - CCS811/BME280 (Qwiic) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com](https://www.sparkfun.com/products/14348) |
- | Zio Qwiic Temperature Humidity Sensor (SHT31) | Qwiic / i2c | Temp, Humidity | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Temperature-Humidity-Sensor-SHT31) |
+| [Zio Air Pressure Sensor - BMP280]((https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280)) | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com] |
+|  [SparkFun Environmental Combo Breakout - CCS811/BME280]((https://www.sparkfun.com/products/14348)) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
+ | [Zio Qwiic Temperature Humidity Sensor (SHT31)](https://www.smart-prototyping.com/Zio-Qwiic-Temperature-Humidity-Sensor-SHT31) | Qwiic / i2c | Temp, Humidity | [Smart-Prototyping.com] |
  
 **AIR QUALITY**
  
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| Zio Qwiic Air Quality Sensor - CCS811 | Qwiic / i2C | eCO2, TVOC, Temp | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Air-Quality-Sensor-CCS811) |
-|  SparkFun Environmental Combo Breakout - CCS811/BME280 (Qwiic) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com](https://www.sparkfun.com/products/14348) | 
- | SparkFun Air Quality Breakout - CCS811 | Qwiic / i2c | eCO2, TVOC, Temp | [sparkfun.com](https://www.sparkfun.com/products/14193) |
+| [Zio Qwiic Air Quality Sensor - CCS811](https://www.smart-prototyping.com/Zio-Qwiic-Air-Quality-Sensor-CCS811) | Qwiic / i2C | eCO2, TVOC, Temp | [Smart-Prototyping.com] |
+|  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] | 
+ | [SparkFun Air Quality Breakout - CCS811](https://www.sparkfun.com/products/14193) | Qwiic / i2c | eCO2, TVOC, Temp | [sparkfun.com] |
  
 
  **AIR PRESSURE**
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| Zio Air Pressure Sensor - BMP280 | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) |
- |  SparkFun Environmental Combo Breakout - CCS811/BME280 (Qwiic) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com](https://www.sparkfun.com/products/14348) |
+| [Zio Air Pressure Sensor - BMP280](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) | Qwiic / i2C | Temp, Barometric pressure | [Smart-Prototyping.com] |
+ |  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) | Qwiic / i2c | Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
  
 **SOIL** 
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| Zio Qwiic Soil Moisture Sensor | Qwiic / i2C | CO2, VOC, Temp | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Soil-Moisture-Sensor) |
+| [Zio Qwiic Soil Moisture Sensor](https://www.smart-prototyping.com/Zio-Qwiic-Soil-Moisture-Sensor)| Qwiic / i2C | CO2, VOC, Temp | [Smart-Prototyping.com] |
 
 
 **PHOTOMETRY / SPECTROMETRY**
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| SparkFun Lightning Detector - AS3935 | Qwiic / i2C | CO2, VOC, Temp | [sparkfun.com](https://www.sparkfun.com/products/15276) |
-| SparkFun Particle Sensor Breakout - MAX30105 | i2c | photon particle detector | [sparkfun.com](https://www.sparkfun.com/products/14045) |
-| SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic) | Qwiic / i2C | 610nm, 680nm, 730nm, 760nm, 810nm, 860nm wavelengths | [sparkfun.com](https://www.sparkfun.com/products/14351) |
-| SparkFun UV Light Sensor Breakout - VEML6075 | Qwiic / i2c |  UVA (365 ±10nm), and UVB (330 ±10nm) | [sparkfun.com](https://www.sparkfun.com/products/15089) |
-| ZIO QWIIC LIGHT SENSOR TSL2561 | Qwiic / i2c | visible light, IR and full light (0.1-40K lux) | [Smart-Protoyping.com](https://www.smart-prototyping.com/Zio-Qwiic-Light-Sensor-TSL2561) |
-| Zio Qwiic RGB Color Sensor TCS34725 | Qwiic / i2c | RGB color | [Smart-Prototyping.com](https://www.smart-prototyping.com/Zio-Qwiic-RGB-Color-Sensor-TCS34725) |
+| [SparkFun Lightning Detector - AS3935](https://www.sparkfun.com/products/15276) | Qwiic / i2C | CO2, VOC, Temp | [sparkfun.com] |
+| [SparkFun Particle Sensor Breakout - MAX30105](https://www.sparkfun.com/products/14045) | i2c | photon particle detector | [sparkfun.com] |
+| [SparkFun Spectral Sensor Breakout - AS7263 NIR](https://www.sparkfun.com/products/14351) | Qwiic / i2C | 610nm, 680nm, 730nm, 760nm, 810nm, 860nm wavelengths | [sparkfun.com] |
+| [SparkFun UV Light Sensor Breakout - VEML6075](https://www.sparkfun.com/products/15089)  | Qwiic / i2c |  UVA (365 ±10nm), and UVB (330 ±10nm) | [sparkfun.com]|
+| [ZIO QWIIC LIGHT SENSOR TSL2561](https://www.smart-prototyping.com/Zio-Qwiic-Light-Sensor-TSL2561)  | Qwiic / i2c | visible light, IR and full light (0.1-40K lux) | [Smart-Protoyping.com]|
+| [Zio Qwiic RGB Color Sensor TCS34725](https://www.smart-prototyping.com/Zio-Qwiic-RGB-Color-Sensor-TCS34725)  | Qwiic / i2c | RGB color | [Smart-Prototyping.com]|
 
 **MAGNETOMETRY**
 
 | Description | Platform | Measurement(s)          | Link(s)   |
 |-------------|----------|-------------------------|-----------|
-| SparkFun Triple Axis Magnetometer Breakout - MLX90393 | Qwiic / i2C | magnetic fields 0.161µT | [sparkfun.com](https://www.sparkfun.com/products/14571) |
+| [SparkFun Triple Axis Magnetometer Breakout - MLX90393]((https://www.sparkfun.com/products/14571)) | Qwiic / i2C | magnetic fields 0.161µT | [sparkfun.com] |
 
 
 ## 3D Printed Stations and Parts
