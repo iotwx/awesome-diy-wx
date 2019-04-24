@@ -47,7 +47,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 | Description | Measurement(s)          |  Project link(s)   |
 |-------------|-------------------------|-----------|
-| [SparkFun Lightning Detector - AS3935](https://www.sparkfun.com/products/15276) |   CO2, VOC, Temp | [sparkfun.com] |
+| [SparkFun Lightning Detector - AS3935](https://www.sparkfun.com/products/15276) |   lightning | [sparkfun.com] |
 | [SparkFun Particle Sensor Breakout - MAX30105](https://www.sparkfun.com/products/14045) | photon particle detector | [sparkfun.com] |
 | [SparkFun Spectral Sensor Breakout - AS7263 NIR](https://www.sparkfun.com/products/14351) |   610nm, 680nm, 730nm, 760nm, 810nm, 860nm wavelengths | [sparkfun.com] |
 | [SparkFun UV Light Sensor Breakout - VEML6075](https://www.sparkfun.com/products/15089)  |    UVA (365 ±10nm), and UVB (330 ±10nm) | [sparkfun.com]|
