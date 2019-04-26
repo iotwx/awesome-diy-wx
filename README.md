@@ -63,9 +63,11 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 ## 3D Printed Stations and Parts
 
+
+### UCAR/NCAR
 | Description | Detail        | Components| Measurements          | Completeness* |
 |-------------|:--------------|-----------|-----------------------|-------------  |
-| [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use | wind vane, anemometer, radiation shield | T, P, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
+| [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use; developed at [UCAR COMET](https://comet.ucar.edu)  | wind vane, anemometer, radiation shield | T, P, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
 
 
 ### Thingiverse
