@@ -63,6 +63,11 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 ## 3D Printed Stations and Parts
 
+| Description | Detail        | Components| Measurements          | Completeness* |
+|-------------|:--------------|-----------|-----------------------|-------------  |
+| [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use | wind vane, anemometer, radiation shield | T, P, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
+
+
 ### Thingiverse
 * Thingiverse [full filter for "weather stations"](https://www.thingiverse.com/search?q=weather+station&dwh=305cbdf7ab10d30) - ~200 matches (as of 4/22/2019)
 
@@ -75,3 +80,10 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 | [IoT Weather Station](https://www.thingiverse.com/thing:1985125) | [NodeMCU](https://www.nodemcu.com/) IoT-based temp/humidity/pressure + light sensor; future potential for soil sensor | solar panel, stevenson shield, control box | T, H, L | appears complete; shield is SKP file |
 |[eNVIRO sense: outdoor wireless weather station sensor with Stevenson screen]() | radiation shield (Stevenson) with solar power for arduino-based temp/humidity sensors | arduino; temp/humidity | T, H | all STL files seem complete |
 | [Simple Wind Speed Sensor / Anemometer 4 Windcups](https://www.thingiverse.com/thing:1773881) | very simple to print anemometer; no electronics | anemometer | WS | no electronics are included, concept design only |
+
+## Open Source Data Collection Platforms
+
+
+
+## Open Source IOT Management Platforms
+
