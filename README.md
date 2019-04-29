@@ -1,9 +1,28 @@
 # awesome-diy-wx
 A collection of resources for diy, semi-professional, 3d-printed and otherwise amazing weather stations.
 
+## IoT device management 
+
+**OPEN SOURCE PLATFORMS**
+* [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics 
+* [SiteWhere](http://www.sitewhere.org/); MongoDB and Grafana integration
+* [ThingSpeak](https://thingspeak.com/); IoT data analysis platform with MATLAB integration
+* [DeviceHive](https://devicehive.com) 
+* [Zetta](https://zettajs.org)
+* [Thingsboard.io](https://thingsboard.io); data collection, processing visualization and device management
+* [Thinger.io](https://thinger.io)
+* [MainFlux](https://mainflux.com)
+* [THiNX](https://thinx.cloud); simplified, streamlined development, deployment and updating from git repositories supporting (among many others) ESP32, ESP8266, Arduino, Onion, Raspberry Pi and PC platforms  
+
+See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IOT Projects /H2S Media Team / 04-13-2019](https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html) and [The Top Open Source IoT Platforms for Developers / Dr. Anand Nayyar / 10-23-2018](https://opensourceforu.com/2018/10/the-top-open-source-iot-platforms-for-developers/).
+
+**ARCHITECTURE AND PLANNING**
+* [IoT Project Planning - Best Practices by Viki Zabala - 03-26-2018](https://www.iotone.com/guide/iot-project-planning-best-practices/g1070): a nice high-level view of project planning for IoT deployments.
+
+
 ## Communication
 
-**LOW-COST NVMO CELL NETWORK SERVICE PROVIDERS**
+**LOW-COST MVNO (Mobile Virtual Network Operator) CELL NETWORK SERVICE PROVIDERS**
 
 | Provider    | Data-Only Plans | Pay-As-You-Go| Notes |
 |-------------|:---------------:|:------------:|-------|
@@ -64,7 +83,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 ## 3D Printed Stations and Parts
 
 ### Thingiverse
-* Thingiverse [full filter for "weather stations"](https://www.thingiverse.com/search?q=weather+station&dwh=305cbdf7ab10d30) - ~200 matches (as of 4/22/2019)
+* Thingiverse [full filter for "weather stations"](https://www.thingiverse.com/search?q=weather+station&dwh=305cbdf7ab10d30) - ~200 matches (as of 4-22-2019)
 
 | Description | Detail        | Components| Measurements          | Completeness* |
 |-------------|:--------------|-----------|-----------------------|-------------  |
