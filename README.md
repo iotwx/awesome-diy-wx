@@ -17,7 +17,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IOT Projects /H2S Media Team / 04-13-2019](https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html) and [The Top Open Source IoT Platforms for Developers / Dr. Anand Nayyar / 10-23-2018](https://opensourceforu.com/2018/10/the-top-open-source-iot-platforms-for-developers/).
 
 **ARCHITECTURE AND PLANNING**
-* [IoT Project Planning - Best Practices by Viki Zabala - 03-26-2018](https://www.iotone.com/guide/iot-project-planning-best-practices/g1070): a nice high-level view of project planning for IoT deployments.
+* [IoT Project Planning / Best Practices by Viki Zabala / 03-26-2018](https://www.iotone.com/guide/iot-project-planning-best-practices/g1070): a nice high-level view of project planning for IoT deployments.
 
 
 ## Communication
@@ -101,10 +101,4 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | [IoT Weather Station](https://www.thingiverse.com/thing:1985125) | [NodeMCU](https://www.nodemcu.com/) IoT-based temp/humidity/pressure + light sensor; future potential for soil sensor | solar panel, stevenson shield, control box | T, H, L | appears complete; shield is SKP file |
 |[eNVIRO sense: outdoor wireless weather station sensor with Stevenson screen]() | radiation shield (Stevenson) with solar power for arduino-based temp/humidity sensors | arduino; temp/humidity | T, H | all STL files seem complete |
 | [Simple Wind Speed Sensor / Anemometer 4 Windcups](https://www.thingiverse.com/thing:1773881) | very simple to print anemometer; no electronics | anemometer | WS | no electronics are included, concept design only |
-
-## Open Source Data Collection Platforms
-
-
-
-## Open Source IOT Management Platforms
 
