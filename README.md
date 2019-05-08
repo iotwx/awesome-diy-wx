@@ -1,9 +1,12 @@
 # awesome-diy-wx
 A collection of resources for diy, semi-professional, 3d-printed and otherwise amazing weather stations.
 
-## IoT device management 
+## IoT device and data management 
 
-**OPEN SOURCE PLATFORMS**
+**OPEN SOURCE DATA MANAGEMENT PLATFORMS**
+* [CHORDS](http://chordsrt.com); open source data platform for real-time visualization, dashboards and APIs
+
+**OPEN SOURCE MANAGEMENT PLATFORMS**
 * [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics 
 * [SiteWhere](http://www.sitewhere.org/); MongoDB and Grafana integration
 * [ThingSpeak](https://thingspeak.com/); IoT data analysis platform with MATLAB integration
