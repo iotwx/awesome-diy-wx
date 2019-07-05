@@ -101,7 +101,8 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | Description | Detail        | Components| Measurements          | Completeness* |
 |-------------|:--------------|-----------|-----------------------|-------------  |
 | [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use; developed at [UCAR COMET](https://comet.ucar.edu)  | wind vane, anemometer, radiation shield | T, P, H, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
-| [ IoT Weather Station by ProgressTH Dec 20, 2016](https://www.thingiverse.com/thing:1985125)  | weather station prototype based on NodeMCU; part of a 2016 hackathon in Bankok: [FabCafe Bangkok's FARM HACK 2.0](http://www.progressth.org/2016/12/3d-printed-iot-weather-station.html)| temperature, humidity, and light level readings , WiFi | T, H, L | prototype status; all files on Thingiverse; future unknown |
+
+[This article about FabCafe Bangkok's FARM HACK 2.0](http://www.progressth.org/2016/12/3d-printed-iot-weather-station.html) describes the station prototype based on NodeMCU (see all IoT Weather Station below) demonstrating the importance and impact 3D printing may have on weather sensing technologies, especially in areas that may not have as many resource for commercial solutions.
 
 ### Thingiverse
 * Thingiverse [full filter for "weather stations"](https://www.thingiverse.com/search?q=weather+station&dwh=305cbdf7ab10d30) - ~200 matches (as of 4-22-2019)
