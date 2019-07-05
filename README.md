@@ -10,11 +10,13 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 
 <!-- /TOC -->
 
----
-## IoT device management
+## IoT device and data management 
 
-**OPEN SOURCE PLATFORMS**
-* [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics
+**OPEN SOURCE DATA MANAGEMENT PLATFORMS**
+* [CHORDS](http://chordsrt.com); open source data platform for real-time visualization, dashboards and APIs
+
+**OPEN SOURCE MANAGEMENT PLATFORMS**
+* [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics 
 * [SiteWhere](http://www.sitewhere.org/); MongoDB and Grafana integration
 * [ThingSpeak](https://thingspeak.com/); IoT data analysis platform with MATLAB integration
 * [DeviceHive](https://devicehive.com)
@@ -27,8 +29,10 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IOT Projects /H2S Media Team / 04-13-2019](https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html) and [The Top Open Source IoT Platforms for Developers / Dr. Anand Nayyar / 10-23-2018](https://opensourceforu.com/2018/10/the-top-open-source-iot-platforms-for-developers/).
 
 **ARCHITECTURE AND PLANNING**
-* [IoT Project Planning / Best Practices by Viki Zabala / 03-26-2018](https://www.iotone.com/guide/iot-project-planning-best-practices/g1070): a nice high-level view of project planning for IoT deployments.
+* [IoT Project Planning / Best Practices by Viki Zabala / 03-26-2018](https://www.iotone.com/guide/iot-project-planning-best-practices/g1070); a nice high-level view of project planning for IoT deployments.
 
+**CONFIGURATION MANAGEMENT**
+* [Ansible](https://www.ansible.com/overview/it-automation); Ansible is a simple automation language for describing an applications IT infrastructure.
 
 ## Communication
 
