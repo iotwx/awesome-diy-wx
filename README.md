@@ -1,13 +1,23 @@
 # awesome-diy-wx
 A collection of resources for diy, semi-professional, 3d-printed and otherwise amazing weather stations.
 
-## IoT device management 
+<!-- TOC depthFrom:2 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [IoT device management](#iot-device-management)
+- [Communication](#communication)
+- [Qwiic/i2c Sensors](#qwiici2c-sensors)
+- [3D Printed Stations and Parts](#3d-printed-stations-and-parts)
+
+<!-- /TOC -->
+
+---
+## IoT device management
 
 **OPEN SOURCE PLATFORMS**
-* [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics 
+* [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics
 * [SiteWhere](http://www.sitewhere.org/); MongoDB and Grafana integration
 * [ThingSpeak](https://thingspeak.com/); IoT data analysis platform with MATLAB integration
-* [DeviceHive](https://devicehive.com) 
+* [DeviceHive](https://devicehive.com)
 * [Zetta](https://zettajs.org)
 * [Thingsboard.io](https://thingsboard.io); data collection, processing visualization and device management
 * [Thinger.io](https://thinger.io)
@@ -38,15 +48,15 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | [Zio Air Pressure Sensor - BMP280](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) |   Temp, Barometric pressure | [Smart-Prototyping.com] |
 |  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) |   Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
  | [Zio Qwiic Temperature Humidity Sensor (SHT31)](https://www.smart-prototyping.com/Zio-Qwiic-Temperature-Humidity-Sensor-SHT31) |   Temp, Humidity | [Smart-Prototyping.com] |
- 
+
 **AIR QUALITY**
- 
+
 | Description | Measurement(s)          |  Project link(s)   |
 |-------------|-------------------------|-----------|
 | [Zio Qwiic Air Quality Sensor - CCS811](https://www.smart-prototyping.com/Zio-Qwiic-Air-Quality-Sensor-CCS811) |   eCO2, TVOC, Temp | [Smart-Prototyping.com] |
-|  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) |   Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] | 
+|  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) |   Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
  | [SparkFun Air Quality Breakout - CCS811](https://www.sparkfun.com/products/14193) |   eCO2, TVOC, Temp | [sparkfun.com] |
- 
+
 
  **AIR PRESSURE**
 
@@ -54,8 +64,8 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 |-------------|-------------------------|-----------|
 | [Zio Air Pressure Sensor - BMP280](https://www.smart-prototyping.com/Zio-Qwiic-Air-Pressure-Sensor-BMP280) |   Temp, Barometric pressure | [Smart-Prototyping.com] |
  |  [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) |   Temp, Humidity, Barometric pressure, eCO2, TVOC | [sparkfun.com] |
- 
-**SOIL** 
+
+**SOIL**
 
 | Description | Measurement(s)          |  Project link(s)   |
 |-------------|-------------------------|-----------|
@@ -86,8 +96,8 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 ### UCAR/NCAR
 | Description | Detail        | Components| Measurements          | Completeness* |
 |-------------|:--------------|-----------|-----------------------|-------------  |
-| [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use; developed at [UCAR COMET](https://comet.ucar.edu)  | wind vane, anemometer, radiation shield | T, P, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
-
+| [3DPAWS 3D Printed Automatic Weather Station](https://sites.google.com/ucar.edu/3dpaws/) | complete weather  station based on Raspberry Pi B; targeted for amateur and professional use; developed at [UCAR COMET](https://comet.ucar.edu)  | wind vane, anemometer, radiation shield | T, P, H, WS, WD, R      | prototype with extensive build manual (>300pp); STL files are available online |
+| [ IoT Weather Station by ProgressTH Dec 20, 2016](https://www.thingiverse.com/thing:1985125)  | weather station prototype based on NodeMCU; part of a 2016 hackathon in Bankok: [FabCafe Bangkok's FARM HACK 2.0](http://www.progressth.org/2016/12/3d-printed-iot-weather-station.html)| temperature, humidity, and light level readings , WiFi | T, H, L | prototype status; all files on Thingiverse; future unknown |
 
 ### Thingiverse
 * Thingiverse [full filter for "weather stations"](https://www.thingiverse.com/search?q=weather+station&dwh=305cbdf7ab10d30) - ~200 matches (as of 4-22-2019)
@@ -101,4 +111,3 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | [IoT Weather Station](https://www.thingiverse.com/thing:1985125) | [NodeMCU](https://www.nodemcu.com/) IoT-based temp/humidity/pressure + light sensor; future potential for soil sensor | solar panel, stevenson shield, control box | T, H, L | appears complete; shield is SKP file |
 |[eNVIRO sense: outdoor wireless weather station sensor with Stevenson screen]() | radiation shield (Stevenson) with solar power for arduino-based temp/humidity sensors | arduino; temp/humidity | T, H | all STL files seem complete |
 | [Simple Wind Speed Sensor / Anemometer 4 Windcups](https://www.thingiverse.com/thing:1773881) | very simple to print anemometer; no electronics | anemometer | WS | no electronics are included, concept design only |
-
