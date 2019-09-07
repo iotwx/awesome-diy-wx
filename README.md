@@ -7,6 +7,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 - [Communication](#communication)
 - [Qwiic/i2c Sensors](#qwiici2c-sensors)
 - [3D Printed Stations and Parts](#3d-printed-stations-and-parts)
+- [Sensor Tests and Experiments](#sensor-tests-and-experiments)
 
 <!-- /TOC -->
 
@@ -116,3 +117,9 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | [IoT Weather Station](https://www.thingiverse.com/thing:1985125) | [NodeMCU](https://www.nodemcu.com/) IoT-based temp/humidity/pressure + light sensor; future potential for soil sensor | solar panel, stevenson shield, control box | T, H, L | appears complete; shield is SKP file |
 |[eNVIRO sense: outdoor wireless weather station sensor with Stevenson screen]() | radiation shield (Stevenson) with solar power for arduino-based temp/humidity sensors | arduino; temp/humidity | T, H | all STL files seem complete |
 | [Simple Wind Speed Sensor / Anemometer 4 Windcups](https://www.thingiverse.com/thing:1773881) | very simple to print anemometer; no electronics | anemometer | WS | no electronics are included, concept design only |
+
+
+## Sensor Tests and Experiments
+
+* [Battery Powered ESP8266](https://homecircuits.eu/blog/battery-powered-esp8266-iot-logger/)
+* [Feather Huzzah Realistic Power Consumption](http://hex.ro/wp/blog/feather-huzzah-esp8266-realistic-power-consumption/)
