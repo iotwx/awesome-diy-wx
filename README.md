@@ -37,6 +37,10 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 **CONFIGURATION MANAGEMENT**
 * [Ansible](https://www.ansible.com/overview/it-automation); Ansible is a simple automation language for describing an applications IT infrastructure.
 
+## Data Storage
+
+* [Plenar.io](http://plenar.io/#) open data platform; used by the [AoT (Array of Things)](https://arrayofthings.github.io) platform
+
 ## Communication
 
 **LOW-COST MVNO (Mobile Virtual Network Operator) CELL NETWORK SERVICE PROVIDERS**
@@ -99,7 +103,6 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 
 ## 3D Printed Stations and Parts
 
-
 ### UCAR/NCAR
 | Description | Detail        | Components| Measurements          | Completeness* |
 |-------------|:--------------|-----------|-----------------------|-------------  |
@@ -119,6 +122,15 @@ See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IO
 | [IoT Weather Station](https://www.thingiverse.com/thing:1985125) | [NodeMCU](https://www.nodemcu.com/) IoT-based temp/humidity/pressure + light sensor; future potential for soil sensor | solar panel, stevenson shield, control box | T, H, L | appears complete; shield is SKP file |
 |[eNVIRO sense: outdoor wireless weather station sensor with Stevenson screen]() | radiation shield (Stevenson) with solar power for arduino-based temp/humidity sensors | arduino; temp/humidity | T, H | all STL files seem complete |
 | [Simple Wind Speed Sensor / Anemometer 4 Windcups](https://www.thingiverse.com/thing:1773881) | very simple to print anemometer; no electronics | anemometer | WS | no electronics are included, concept design only |
+
+
+## Other Wx-related parts
+
+* [SwitchDoc Labs](https://shop.switchdoc.com/products/) has a number of parts for sale that can be used to construct your own station or to build one based on their SkyWeather paltform (and corresponding [WeatherSTEM](https://www.weatherstem.comm) network.
+
+## Commercial/Semi-Commercial Stations
+
+* [SkyWeather](https://shop.switchdoc.com/products/skyweather-raspberry-pi-based-weather-station-kit-for-the-cloud) weather station kit for the Cloud
 
 
 ## Sensor Tests and Experiments
