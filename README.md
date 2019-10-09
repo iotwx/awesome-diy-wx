@@ -16,6 +16,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 * [CHORDS](http://chordsrt.com); open source data platform for real-time visualization, dashboards and APIs
 
 **OPEN SOURCE MANAGEMENT PLATFORMS**
+* [Blynk](https://blynk.io/); cloud platform for device management, configuration, monitoring and analytics.  The **open-source** server is here: [https://github.com/blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) 
 * [KaaIoT](https://www.kaaproject.org/); cloud platform for device management, configuration, monitoring and analytics 
 * [SiteWhere](http://www.sitewhere.org/); MongoDB and Grafana integration
 * [ThingSpeak](https://thingspeak.com/); IoT data analysis platform with MATLAB integration
@@ -25,6 +26,7 @@ A collection of resources for diy, semi-professional, 3d-printed and otherwise a
 * [Thinger.io](https://thinger.io)
 * [MainFlux](https://mainflux.com)
 * [THiNX](https://thinx.cloud); simplified, streamlined development, deployment and updating from git repositories supporting (among many others) ESP32, ESP8266, Arduino, Onion, Raspberry Pi and PC platforms  
+
 
 See more at [H2S Media: 9 Best & Top Open source IoT Platforms To Develop the IOT Projects /H2S Media Team / 04-13-2019](https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html) and [The Top Open Source IoT Platforms for Developers / Dr. Anand Nayyar / 10-23-2018](https://opensourceforu.com/2018/10/the-top-open-source-iot-platforms-for-developers/).
 
